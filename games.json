@@ -3,16 +3,16 @@
   "version": 1,
   "name": "ZeistaZeng 的小游戏",
   "author": "ZeistaZeng",
-  "updatedAt": "2026-11-26T07:00:07.216Z",
+  "updatedAt": "2026-11-26T07:19:32.571Z",
   "games": [
     {
       "slug": "game-library",
-      "title": "游戏库",
+      "title": "泽斯塔游戏库",
       "url": "game-library/",
       "cover": "game-library/cover.jpg",
       "dimension": "2d",
       "orientation": "portrait",
-      "publishedAt": "2026-11-26T07:00:07.216Z"
+      "publishedAt": "2026-11-26T07:19:32.571Z"
     }
   ],
   "wall": null

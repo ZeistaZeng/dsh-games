@@ -3,10 +3,10 @@
   "version": 1,
   "games": {
     "game-library": {
-      "title": "游戏库",
+      "title": "泽斯塔游戏库",
       "source": "9fe220e6d976a8dd",
-      "publishedAt": "2026-11-26T07:00:07.216Z",
-      "buildId": "23ad1cb674fe",
+      "publishedAt": "2026-11-26T07:19:32.571Z",
+      "buildId": "1462ff9e1e16",
       "dimension": "2d",
       "orientation": "portrait",
       "cover": "game-library/cover.jpg"
