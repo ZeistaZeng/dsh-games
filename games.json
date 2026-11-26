@@ -1,0 +1,19 @@
+{
+  "format": "dsh-games-feed",
+  "version": 1,
+  "name": "ZeistaZeng 的小游戏",
+  "author": "ZeistaZeng",
+  "updatedAt": "2026-11-26T06:36:49.267Z",
+  "games": [
+    {
+      "slug": "game-library",
+      "title": "游戏库",
+      "url": "game-library/",
+      "cover": "game-library/cover.jpg",
+      "dimension": "2d",
+      "orientation": "portrait",
+      "publishedAt": "2026-11-26T06:36:49.267Z"
+    }
+  ],
+  "wall": null
+}
